@@ -15,7 +15,7 @@ class ACTIONCOMBAT_API UPlayerAnimInstance : public UAnimInstance
 	GENERATED_BODY()
 
 protected:
-	UPROPERTY(BlueprintReadWrite)
+	UPROPERTY(BlueprintReadWrite,EditAnywhere)
 	float CurrentVelocity{ 0.0f }; // Direct inizialization. More restricted. Code wont compile if I make a mistake with type
 
 	

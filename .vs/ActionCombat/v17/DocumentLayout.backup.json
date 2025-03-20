@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Pablo\\Documents\\Unreal Projects\\ActionCombat\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B75D4151-DD15-3A94-9F70-26C5DEAF0F8E}|Intermediate\\ProjectFiles\\ActionCombat.vcxproj|C:\\Users\\Pablo\\Documents\\Unreal Projects\\ActionCombat\\Source\\ActionCombat\\Private\\Characters\\MainCharacter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B75D4151-DD15-3A94-9F70-26C5DEAF0F8E}|Intermediate\\ProjectFiles\\ActionCombat.vcxproj|solutionrelative:Source\\ActionCombat\\Private\\Characters\\MainCharacter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B75D4151-DD15-3A94-9F70-26C5DEAF0F8E}|Intermediate\\ProjectFiles\\ActionCombat.vcxproj|C:\\Users\\Pablo\\Documents\\Unreal Projects\\ActionCombat\\Source\\ActionCombat\\Public\\Animations\\PlayerAnimInstance.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B75D4151-DD15-3A94-9F70-26C5DEAF0F8E}|Intermediate\\ProjectFiles\\ActionCombat.vcxproj|solutionrelative:Source\\ActionCombat\\Public\\Animations\\PlayerAnimInstance.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B75D4151-DD15-3A94-9F70-26C5DEAF0F8E}|Intermediate\\ProjectFiles\\ActionCombat.vcxproj|C:\\Users\\Pablo\\Documents\\Unreal Projects\\ActionCombat\\Source\\ActionCombat\\Private\\Animations\\PlayerAnimInstance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B75D4151-DD15-3A94-9F70-26C5DEAF0F8E}|Intermediate\\ProjectFiles\\ActionCombat.vcxproj|solutionrelative:Source\\ActionCombat\\Private\\Animations\\PlayerAnimInstance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B75D4151-DD15-3A94-9F70-26C5DEAF0F8E}|Intermediate\\ProjectFiles\\ActionCombat.vcxproj|C:\\Users\\Pablo\\Documents\\Unreal Projects\\ActionCombat\\Source\\ActionCombat\\Private\\Characters\\MainCharacter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B75D4151-DD15-3A94-9F70-26C5DEAF0F8E}|Intermediate\\ProjectFiles\\ActionCombat.vcxproj|solutionrelative:Source\\ActionCombat\\Private\\Characters\\MainCharacter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96C63754-A742-306A-B45A-701582C15841}|Intermediate\\ProjectFiles\\UE5.vcxproj|C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source\\Runtime\\Engine\\Classes\\GameFramework\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -29,11 +29,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainCharacter.cpp",
               "DocumentMoniker": "C:\\Users\\Pablo\\Documents\\Unreal Projects\\ActionCombat\\Source\\ActionCombat\\Private\\Characters\\MainCharacter.cpp",
               "RelativeDocumentMoniker": "Source\\ActionCombat\\Private\\Characters\\MainCharacter.cpp",
@@ -70,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PlayerAnimInstance.cpp",
               "DocumentMoniker": "C:\\Users\\Pablo\\Documents\\Unreal Projects\\ActionCombat\\Source\\ActionCombat\\Private\\Animations\\PlayerAnimInstance.cpp",
               "RelativeDocumentMoniker": "Source\\ActionCombat\\Private\\Animations\\PlayerAnimInstance.cpp",
@@ -78,18 +78,17 @@
               "RelativeToolTip": "Source\\ActionCombat\\Private\\Animations\\PlayerAnimInstance.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-20T01:39:21.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T01:39:21.042Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PlayerAnimInstance.h",
               "DocumentMoniker": "C:\\Users\\Pablo\\Documents\\Unreal Projects\\ActionCombat\\Source\\ActionCombat\\Public\\Animations\\PlayerAnimInstance.h",
               "RelativeDocumentMoniker": "Source\\ActionCombat\\Public\\Animations\\PlayerAnimInstance.h",
               "ToolTip": "C:\\Users\\Pablo\\Documents\\Unreal Projects\\ActionCombat\\Source\\ActionCombat\\Public\\Animations\\PlayerAnimInstance.h",
               "RelativeToolTip": "Source\\ActionCombat\\Public\\Animations\\PlayerAnimInstance.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-20T01:39:19.96Z",
               "EditorCaption": ""
