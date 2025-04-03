@@ -18,5 +18,8 @@ protected:
 	UPROPERTY(BlueprintReadWrite,EditAnywhere)
 	float CurrentVelocity{ 0.0f }; // Direct inizialization. More restricted. Code wont compile if I make a mistake with type
 
+	UFUNCTION(BlueprintCallable)
 	void UpdateVelocity();
+
+
 };

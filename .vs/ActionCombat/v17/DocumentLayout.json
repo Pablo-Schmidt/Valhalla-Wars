@@ -36,9 +36,10 @@
               "RelativeDocumentMoniker": "Source\\ActionCombat\\Private\\Characters\\MainCharacter.cpp",
               "ToolTip": "C:\\Users\\Pablo\\Documents\\Unreal Projects\\ActionCombat\\Source\\ActionCombat\\Private\\Characters\\MainCharacter.cpp",
               "RelativeToolTip": "Source\\ActionCombat\\Private\\Characters\\MainCharacter.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-20T02:21:26.148Z"
+              "WhenOpened": "2025-03-20T02:21:26.148Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -50,7 +51,8 @@
               "RelativeToolTip": "Source\\ActionCombat\\Public\\Characters\\MainCharacter.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-20T02:21:25.759Z"
+              "WhenOpened": "2025-03-20T02:21:25.759Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -60,7 +62,7 @@
               "RelativeDocumentMoniker": "Source\\ActionCombat\\Private\\Animations\\PlayerAnimInstance.cpp",
               "ToolTip": "C:\\Users\\Pablo\\Documents\\Unreal Projects\\ActionCombat\\Source\\ActionCombat\\Private\\Animations\\PlayerAnimInstance.cpp",
               "RelativeToolTip": "Source\\ActionCombat\\Private\\Animations\\PlayerAnimInstance.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-20T01:39:21.042Z",
               "EditorCaption": ""
@@ -73,7 +75,7 @@
               "RelativeDocumentMoniker": "Source\\ActionCombat\\Public\\Animations\\PlayerAnimInstance.h",
               "ToolTip": "C:\\Users\\Pablo\\Documents\\Unreal Projects\\ActionCombat\\Source\\ActionCombat\\Public\\Animations\\PlayerAnimInstance.h",
               "RelativeToolTip": "Source\\ActionCombat\\Public\\Animations\\PlayerAnimInstance.h",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-20T01:39:19.96Z",
               "EditorCaption": ""
