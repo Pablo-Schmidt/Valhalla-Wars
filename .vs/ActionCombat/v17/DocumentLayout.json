@@ -86,7 +86,8 @@
               "RelativeToolTip": "Source\\ActionCombat\\Private\\Combat\\TraceComponent.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-04T08:33:17.131Z"
+              "WhenOpened": "2025-04-04T08:33:17.131Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -98,7 +99,8 @@
               "RelativeToolTip": "Source\\ActionCombat\\Public\\Combat\\BlockComponent.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-04T01:19:06.605Z"
+              "WhenOpened": "2025-04-04T01:19:06.605Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -110,7 +112,8 @@
               "RelativeToolTip": "Source\\ActionCombat\\Private\\Combat\\CombatComponent.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-04T00:52:06.646Z"
+              "WhenOpened": "2025-04-04T00:52:06.646Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -122,7 +125,8 @@
               "RelativeToolTip": "Source\\ActionCombat\\Public\\Combat\\CombatComponent.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-04T00:52:06.515Z"
+              "WhenOpened": "2025-04-04T00:52:06.515Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -134,7 +138,8 @@
               "RelativeToolTip": "Source\\ActionCombat\\Private\\Characters\\PlayerActionsComponent.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-04T00:50:20.11Z"
+              "WhenOpened": "2025-04-04T00:50:20.11Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -172,7 +177,8 @@
               "RelativeToolTip": "Source\\ActionCombat\\Private\\Combat\\BlockComponent.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-04T01:19:06.741Z"
+              "WhenOpened": "2025-04-04T01:19:06.741Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -184,7 +190,8 @@
               "RelativeToolTip": "Source\\ActionCombat\\Public\\Combat\\TraceComponent.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-04T08:33:16.814Z"
+              "WhenOpened": "2025-04-04T08:33:16.814Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -196,7 +203,8 @@
               "RelativeToolTip": "Source\\ActionCombat\\Public\\Characters\\PlayerActionsComponent.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-04T00:50:19.957Z"
+              "WhenOpened": "2025-04-04T00:50:19.957Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -208,7 +216,8 @@
               "RelativeToolTip": "Source\\ActionCombat\\Private\\Characters\\StatsComponent.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-04T00:42:14.538Z"
+              "WhenOpened": "2025-04-04T00:42:14.538Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -220,7 +229,8 @@
               "RelativeToolTip": "Source\\ActionCombat\\Public\\Characters\\StatsComponent.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-04T00:42:14.1Z"
+              "WhenOpened": "2025-04-04T00:42:14.1Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -232,7 +242,8 @@
               "RelativeToolTip": "Source\\ActionCombat\\Private\\Characters\\MainCharacter.cpp",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-20T02:21:26.148Z"
+              "WhenOpened": "2025-03-20T02:21:26.148Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -244,7 +255,8 @@
               "RelativeToolTip": "Source\\ActionCombat\\Public\\Characters\\MainCharacter.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-20T02:21:25.759Z"
+              "WhenOpened": "2025-03-20T02:21:25.759Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -256,7 +268,8 @@
               "RelativeToolTip": "Source\\ActionCombat\\Private\\Animations\\PlayerAnimInstance.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-20T01:39:21.042Z"
+              "WhenOpened": "2025-03-20T01:39:21.042Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -268,7 +281,8 @@
               "RelativeToolTip": "Source\\ActionCombat\\Public\\Animations\\PlayerAnimInstance.h",
               "ViewState": "AgIAAAUAAAAAAAAAAAAYwBIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-20T01:39:19.96Z"
+              "WhenOpened": "2025-03-20T01:39:19.96Z",
+              "EditorCaption": ""
             }
           ]
         }
