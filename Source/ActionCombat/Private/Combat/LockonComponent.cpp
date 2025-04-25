@@ -1,6 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 
+
 #include "Combat/LockonComponent.h"
 
 // Sets default values for this component's properties
@@ -20,12 +21,6 @@ void ULockonComponent::BeginPlay()
 	Super::BeginPlay();
 
 	// ...
-	
-}
-
-void ULockonComponent::StartLockon()
-{
-	UE_LOG(LogTemp,Warning, TEXT("Lockon Started!"));
 
 }
 
@@ -37,4 +32,10 @@ void ULockonComponent::TickComponent(float DeltaTime, ELevelTick TickType, FActo
 
 	// ...
 }
+
+void ULockonComponent::StartLockon()
+{
+	UE_LOG(LogTemp, Warning, TEXT("Lockon Started!"));
+}
+
 
