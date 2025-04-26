@@ -33,8 +33,20 @@ void ULockonComponent::TickComponent(float DeltaTime, ELevelTick TickType, FActo
 	// ...
 }
 
-void ULockonComponent::StartLockon()
-{
+void ULockonComponent::StartLockon() // CONTINUE FROM THESE LINES!!!!!
+{	
+	FHitResult OutResult;
+	FVector CurrentLocation{ GetOwner()->GetActorLocation() };
+
+	//Detectes collision
+	GetWorld()->SweepSingleByChannel(
+	OutResult,
+
+	CurrentLocation,
+	CurrentLocation,
+	FQuat::Identity
+	);
+	
 	UE_LOG(LogTemp, Warning, TEXT("Lockon Started!"));
 }
 
