@@ -37,17 +37,32 @@ void ULockonComponent::StartLockon() // CONTINUE FROM THESE LINES!!!!!
 {	
 	FHitResult OutResult;
 	FVector CurrentLocation{ GetOwner()->GetActorLocation() };
+	FCollisionShape Sphere{ FCollisionShape::MakeSphere(750.0f) };
+	FCollisionQueryParams IgnoreParams{
+		FName { TEXT ("Ignore Collision Parameters")},
+		false,
+		GetOwner ()
 
-	//Detectes collision
-	GetWorld()->SweepSingleByChannel(
-	OutResult,
+	};
+	Sphere;
+	//detectes collision
+	bool BHasFoundTarget { GetWorld()->SweepSingleByChannel(
+		OutResult,
 
-	CurrentLocation,
-	CurrentLocation,
-	FQuat::Identity
-	);
+		CurrentLocation,
+		CurrentLocation,
+		FQuat::Identity,
+		ECollisionChannel::ECC_GameTraceChannel1,
+		Sphere,
+		IgnoreParams
+	)};
+
+	if (!BHasFoundTarget) { return;  }
 	
-	UE_LOG(LogTemp, Warning, TEXT("Lockon Started!"));
+	UE_LOG(
+		LogTemp, Warning, TEXT("Actor Detected: %s"),
+		*OutResult.GetActor()->GetName()
+	);
 }
 
 
