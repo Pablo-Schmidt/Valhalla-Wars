@@ -33,7 +33,7 @@ void ULockonComponent::TickComponent(float DeltaTime, ELevelTick TickType, FActo
 	// ...
 }
 
-void ULockonComponent::StartLockon() // CONTINUE FROM THESE LINES!!!!!
+void ULockonComponent::StartLockon(float Radius) 
 {	
 	FHitResult OutResult;
 	FVector CurrentLocation{ GetOwner()->GetActorLocation() };
