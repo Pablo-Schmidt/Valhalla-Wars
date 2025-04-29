@@ -7,14 +7,23 @@
 #include "LockonComponent.generated.h"
 
 
+
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
 class ACTIONCOMBAT_API ULockonComponent : public UActorComponent
 {
 	GENERATED_BODY()
 
+	ACharacter* OwnerRef;
+
+	APlayerController* Controller;
+
+	class UCharacterMovementComponent* MovementComp;
+
 public:	
 	// Sets default values for this component's properties
 	ULockonComponent();
+
+	AActor* CurrentTargetActor;
 
 protected:
 	// Called when the game starts
