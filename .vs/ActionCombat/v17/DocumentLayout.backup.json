@@ -64,8 +64,7 @@
               "RelativeToolTip": "Source\\ActionCombat\\Public\\Characters\\MainCharacter.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-02T00:54:23.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T00:54:23.568Z"
             },
             {
               "$type": "Document",
@@ -77,8 +76,7 @@
               "RelativeToolTip": "Source\\ActionCombat\\Private\\Characters\\BossCharacter.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-01T23:47:11.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T23:47:11.193Z"
             },
             {
               "$type": "Document",
@@ -90,8 +88,7 @@
               "RelativeToolTip": "Source\\ActionCombat\\Public\\Characters\\BossCharacter.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-01T23:47:11.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T23:47:11.076Z"
             },
             {
               "$type": "Document",
@@ -103,8 +100,7 @@
               "RelativeToolTip": "Source\\ActionCombat\\Private\\Interfaces\\Enemy.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-01T23:05:51.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T23:05:51.076Z"
             },
             {
               "$type": "Document",
@@ -112,9 +108,9 @@
               "Title": "Enemy.h",
               "DocumentMoniker": "C:\\Users\\Pablo\\Documents\\Unreal Projects\\ActionCombat\\Source\\ActionCombat\\Public\\Interfaces\\Enemy.h",
               "RelativeDocumentMoniker": "Source\\ActionCombat\\Public\\Interfaces\\Enemy.h",
-              "ToolTip": "C:\\Users\\Pablo\\Documents\\Unreal Projects\\ActionCombat\\Source\\ActionCombat\\Public\\Interfaces\\Enemy.h*",
-              "RelativeToolTip": "Source\\ActionCombat\\Public\\Interfaces\\Enemy.h*",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Pablo\\Documents\\Unreal Projects\\ActionCombat\\Source\\ActionCombat\\Public\\Interfaces\\Enemy.h",
+              "RelativeToolTip": "Source\\ActionCombat\\Public\\Interfaces\\Enemy.h",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-01T23:05:50.564Z",
               "EditorCaption": ""
@@ -129,8 +125,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source\\Runtime\\Engine\\Classes\\GameFramework\\SpringArmComponent.h [Read Only]",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-30T00:49:50.327Z",
-              "EditorCaption": " [Read Only]"
+              "WhenOpened": "2025-04-30T00:49:50.327Z"
             },
             {
               "$type": "Document",
@@ -142,8 +137,7 @@
               "RelativeToolTip": "Source\\ActionCombat\\Public\\Combat\\LockonComponent.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-03T23:53:53.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T23:53:53.205Z"
             },
             {
               "$type": "Document",
@@ -151,12 +145,11 @@
               "Title": "LockonComponent.cpp",
               "DocumentMoniker": "C:\\Users\\Pablo\\Documents\\Unreal Projects\\ActionCombat\\Source\\ActionCombat\\Private\\Combat\\LockonComponent.cpp",
               "RelativeDocumentMoniker": "Source\\ActionCombat\\Private\\Combat\\LockonComponent.cpp",
-              "ToolTip": "C:\\Users\\Pablo\\Documents\\Unreal Projects\\ActionCombat\\Source\\ActionCombat\\Private\\Combat\\LockonComponent.cpp*",
-              "RelativeToolTip": "Source\\ActionCombat\\Private\\Combat\\LockonComponent.cpp*",
+              "ToolTip": "C:\\Users\\Pablo\\Documents\\Unreal Projects\\ActionCombat\\Source\\ActionCombat\\Private\\Combat\\LockonComponent.cpp",
+              "RelativeToolTip": "Source\\ActionCombat\\Private\\Combat\\LockonComponent.cpp",
               "ViewState": "AgIAAG4AAAAAAAAAAAAAAHwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-03T23:53:53.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T23:53:53.552Z"
             },
             {
               "$type": "Document",
@@ -168,8 +161,7 @@
               "RelativeToolTip": "Source\\ActionCombat\\Public\\Interfaces\\MainPlayer.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-02T00:46:41.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T00:46:41.002Z"
             },
             {
               "$type": "Document",
@@ -181,8 +173,7 @@
               "RelativeToolTip": "Source\\ActionCombat\\Private\\Interfaces\\MainPlayer.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-02T00:46:41.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T00:46:41.197Z"
             },
             {
               "$type": "Document",
@@ -194,8 +185,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source\\Runtime\\Core\\Public\\String\\FormatStringSan.h [Read Only]",
               "ViewState": "AgIAAFoAAAAAAAAAAAAqwGgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-27T00:19:15.835Z",
-              "EditorCaption": " [Read Only]"
+              "WhenOpened": "2025-04-27T00:19:15.835Z"
             }
           ]
         }
