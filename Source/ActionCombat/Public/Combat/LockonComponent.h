@@ -6,6 +6,11 @@
 #include "Components/ActorComponent.h"
 #include "LockonComponent.generated.h"
 
+DECLARE_DYNAMIC_MULTICAST_SPARSE_DELEGATE_OneParam(
+	FOnUpdatedTargetSignature,
+	ULockonComponent, OnUpdatedTargetDelegate,
+	AActor*, NewTargetActorRef
+);
 
 UCLASS(ClassGroup = (Custom), meta = (BlueprintSpawnableComponent))
 class ACTIONCOMBAT_API ULockonComponent : public UActorComponent
@@ -26,6 +31,9 @@ public:
 
 	AActor* CurrentTargetActor;
 
+	UPROPERTY(BlueprintAssignable)
+	FOnUpdatedTargetSignature OnUpdatedTargetDelegate;
+
 protected:
 	// Called when the game starts
 	virtual void BeginPlay() override;
@@ -40,7 +48,6 @@ protected:
 
 	UPROPERTY(EditAnywhere)
 	double BreakDistance{ 1000.0 };
-
 public:
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
