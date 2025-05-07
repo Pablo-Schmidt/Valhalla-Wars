@@ -68,8 +68,7 @@
               "RelativeToolTip": "Source\\ActionCombat\\Public\\Animations\\PlayerAnimInstance.h",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-05T00:04:22.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T00:04:22.805Z"
             },
             {
               "$type": "Document",
@@ -137,9 +136,9 @@
               "Title": "LockonComponent.h",
               "DocumentMoniker": "C:\\Users\\Pablo\\Documents\\Unreal Projects\\ActionCombat\\Source\\ActionCombat\\Public\\Combat\\LockonComponent.h",
               "RelativeDocumentMoniker": "Source\\ActionCombat\\Public\\Combat\\LockonComponent.h",
-              "ToolTip": "C:\\Users\\Pablo\\Documents\\Unreal Projects\\ActionCombat\\Source\\ActionCombat\\Public\\Combat\\LockonComponent.h*",
-              "RelativeToolTip": "Source\\ActionCombat\\Public\\Combat\\LockonComponent.h*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Pablo\\Documents\\Unreal Projects\\ActionCombat\\Source\\ActionCombat\\Public\\Combat\\LockonComponent.h",
+              "RelativeToolTip": "Source\\ActionCombat\\Public\\Combat\\LockonComponent.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-03T23:53:53.205Z",
               "EditorCaption": ""
@@ -150,12 +149,11 @@
               "Title": "LockonComponent.cpp",
               "DocumentMoniker": "C:\\Users\\Pablo\\Documents\\Unreal Projects\\ActionCombat\\Source\\ActionCombat\\Private\\Combat\\LockonComponent.cpp",
               "RelativeDocumentMoniker": "Source\\ActionCombat\\Private\\Combat\\LockonComponent.cpp",
-              "ToolTip": "C:\\Users\\Pablo\\Documents\\Unreal Projects\\ActionCombat\\Source\\ActionCombat\\Private\\Combat\\LockonComponent.cpp*",
-              "RelativeToolTip": "Source\\ActionCombat\\Private\\Combat\\LockonComponent.cpp*",
+              "ToolTip": "C:\\Users\\Pablo\\Documents\\Unreal Projects\\ActionCombat\\Source\\ActionCombat\\Private\\Combat\\LockonComponent.cpp",
+              "RelativeToolTip": "Source\\ActionCombat\\Private\\Combat\\LockonComponent.cpp",
               "ViewState": "AgIAAFEAAAAAAAAAAAAAAF0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-03T23:53:53.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T23:53:53.552Z"
             },
             {
               "$type": "Document",

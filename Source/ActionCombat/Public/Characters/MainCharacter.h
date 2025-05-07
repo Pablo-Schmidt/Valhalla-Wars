@@ -20,6 +20,9 @@ protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
+	UPROPERTY(BlueprintReadOnly)
+	class UPlayerAnimInstance* PlayerAnim;
+
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;

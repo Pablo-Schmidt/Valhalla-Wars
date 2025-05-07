@@ -26,4 +26,11 @@ protected:
 
 	UPROPERTY(BlueprintReadWrite, EditAnywhere)
 	float CurrentDirection{ 0.0f };
+
+public:
+	UFUNCTION(BlueprintCallable)
+	void HandleUpdatedTarget(AActor* NewTargetActorRef);
+
+	UFUNCTION(BlueprintCallable)
+	void UpdateDirection();
 };
