@@ -7,7 +7,7 @@
 #include "PlayerAnimInstance.generated.h"
 
 /**
- * 
+ *
  */
 UCLASS()
 class ACTIONCOMBAT_API UPlayerAnimInstance : public UAnimInstance
@@ -15,11 +15,11 @@ class ACTIONCOMBAT_API UPlayerAnimInstance : public UAnimInstance
 	GENERATED_BODY()
 
 protected:
-	UPROPERTY(BlueprintReadWrite,EditAnywhere)
-	float CurrentVelocity{ 0.0f }; // Direct inizialization. More restricted. Code wont compile if I make a mistake with type
+	UPROPERTY(BlueprintReadWrite, EditAnywhere)
+	float CurrentSpeed{ 0.0f };
 
 	UFUNCTION(BlueprintCallable)
-	void UpdateVelocity();
+	void UpdateSpeed();
 
 	UPROPERTY(BlueprintReadWrite, EditAnywhere)
 	bool bIsInCombat{ false };
