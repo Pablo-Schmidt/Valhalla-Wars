@@ -19,8 +19,8 @@ void UTraceComponent::BeginPlay()
 {
 	Super::BeginPlay();
 
-	// ...
-	
+	SkeletalComp = GetOwner()
+		->FindComponentByClass<USkeletalMeshComponent>();
 }
 
 
@@ -29,6 +29,17 @@ void UTraceComponent::TickComponent(float DeltaTime, ELevelTick TickType, FActor
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
 
-	// ...
+	FVector StartSocketLocation{ SkeletalComp->GetSocketLocation(Start) };
+	FVector EndSocketLocation{ SkeletalComp->GetSocketLocation(End) };
+	FQuat ShapeRotation{ SkeletalComp->GetSocketQuaternion(Rotation) };
+
+	UE_LOG(
+		LogTemp,
+		Warning,
+		TEXT("Start: %s - End: %s - Rotation: %s"),
+		*StartSocketLocation.ToString(),
+		*EndSocketLocation.ToString(),
+		*ShapeRotation.ToString()
+	);
 }
 
