@@ -26,6 +26,9 @@ class ACTIONCOMBAT_API UTraceComponent : public UActorComponent
 	UPROPERTY(EditAnywhere)
 	double BoxCollisionLength{ 30.0 };
 
+	UPROPERTY(EditAnywhere)
+	bool bDebugMode{ false };
+
 public:
 	// Sets default values for this component's properties
 	UTraceComponent();
