@@ -27,12 +27,6 @@ void AMainCharacter::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
-	//TEST
-	if (PlayerAnim)
-	{
-				PlayerAnim->UpdateDirection(); // Ensure this is being called each frame
-	}
-	//TEST
 }
 
 // Called to bind functionality to input
@@ -40,5 +34,10 @@ void AMainCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputCompo
 {
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
 
+}
+
+float AMainCharacter::GetDamage()
+{
+	return 10.0f;
 }
 
