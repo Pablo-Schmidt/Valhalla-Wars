@@ -29,9 +29,15 @@ class ACTIONCOMBAT_API UTraceComponent : public UActorComponent
 	UPROPERTY(EditAnywhere)
 	bool bDebugMode{ false };
 
+	TArray<AActor*> TargetsToIgnore;
+
 public:
 	// Sets default values for this component's properties
 	UTraceComponent();
+
+	UPROPERTY(VisibleAnywhere)
+	bool bIsAttacking{ false };
+
 
 protected:
 	// Called when the game starts
@@ -41,5 +47,6 @@ public:
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 
-
+	UFUNCTION(BlueprintCallable)
+	void HandleResetAttack();
 };
